@@ -1,0 +1,7 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/vue_mixins/mainspa.js": "/js/vue_mixins/mainspa.js",
+    "/js/vue_mixins/login.js": "/js/vue_mixins/login.js",
+    "/js/vue_mixins/register.js": "/js/vue_mixins/register.js",
+    "/css/app.css": "/css/app.css"
+}
